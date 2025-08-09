@@ -1,0 +1,507 @@
+Ev No,Fiyat,Adres,Net Metrekare,Oda Sayısı,Bulunduğu Kat,Isıtma Tipi,Brüt Metrekare,Binanın Yaşı,Binanın Kat Sayısı,Kullanım Durumu
+Ev-1,"3,350,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-2,"3,650,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,200 m²,4+1,6.Kat,Merkezi (Pay Ölçer),240 m²,5-10,9,Mülk Sahibi Oturuyor
+Ev-3,"2,899,999TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,4,4,Boş
+Ev-4,"1,320,000TL",Elazığ - Elazığ Merkez - Karşıyaka Mahallesi,75 m²,2+1,3.Kat,Merkezi (Pay Ölçer),85 m²,2,4,Kiracı Oturuyor
+Ev-5,"2,450,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,90 m²,2+1,2.Kat,Kombi Doğalgaz,110 m²,0 (Yeni),3,Boş
+Ev-6,"2,625,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,105 m²,2+1,3.Kat,Kombi Doğalgaz,125 m²,5-10,4,Boş
+Ev-7,"4,200,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,162 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),4,Boş
+Ev-8,"2,500,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü,128 m²,3+1,1.Kat,Merkezi (Pay Ölçer),130 m²,2,4,Mülk Sahibi Oturuyor
+Ev-9,"5,600,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,200 m²,4+1,10.Kat,Merkezi (Pay Ölçer),220 m²,4,13,Mülk Sahibi Oturuyor
+Ev-10,"2,600,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,140 m²,3+1,6.Kat,Merkezi Doğalgaz,171 m²,0 (Yeni),18,Boş
+Ev-11,"1,830,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,200 m²,4+1,2.Kat,Kombi Doğalgaz,220 m²,21 Ve Üzeri,5,Boş
+Ev-12,"2,000,000TL",Elazığ - Elazığ Merkez - Hankendi Köyü (Özgürler Mahallesi),140 m²,4+1,2.Kat,Sobalı,150 m²,21 Ve Üzeri,2,Boş
+Ev-13,"2,800,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,165 m²,3+1,6.Kat,Kombi Doğalgaz,175 m²,4,13,Mülk Sahibi Oturuyor
+Ev-14,"3,000,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,145 m²,3+1,7.Kat,Doğalgaz Sobalı,165 m²,4,11,Mülk Sahibi Oturuyor
+Ev-15,"1,949,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,50 m²,1+1,4.Kat,Kombi Doğalgaz,65 m²,0 (Yeni),5,Boş
+Ev-16,"2,750,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,100 m²,2+1,4.Kat,Kombi Doğalgaz,115 m²,0 (Yeni),8,Boş
+Ev-17,"2,625,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,125 m²,3+1,2.Kat,Kombi Doğalgaz,135 m²,0 (Yeni),5,Boş
+Ev-18,"1,250,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,138 m²,3+1,5.Kat,Kombi Doğalgaz,145 m²,21 Ve Üzeri,5,Boş
+Ev-19,"3,150,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,200 m²,4+1,8.Kat,Kombi Doğalgaz,220 m²,2,8,Boş
+Ev-20,"3,500,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,160 m²,3+1,4.Kat,Kombi Doğalgaz,177 m²,0 (Yeni),5,Boş
+Ev-21,"3,895,000TL",Elazığ - Elazığ Merkez - Şahinkaya Köyü (Veran Mahallesi),150 m²,3+1,2.Kat,Merkezi Doğalgaz,175 m²,0 (Yeni),8,Boş
+Ev-22,"4,450,000TL",Elazığ - Elazığ Merkez - Şahinkaya Köyü (Veran Mahallesi),195 m²,4+1,2.Kat,Merkezi Doğalgaz,225 m²,0 (Yeni),8,Boş
+Ev-23,"3,650,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,160 m²,3+1,6.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),7,Boş
+Ev-24,"1,850,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,125 m²,3+1,3.Kat,Kombi Doğalgaz,130 m²,5-10,7,Kiracı Oturuyor
+Ev-25,"4,590,000TL",Elazığ - Elazığ Merkez - Şahinkaya Köyü (Veran Mahallesi),180 m²,4+1,3.Kat,Kombi Doğalgaz,200 m²,0 (Yeni),7,Boş
+Ev-26,"2,150,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,145 m²,3+1,4.Kat,Merkezi (Pay Ölçer),150 m²,2,4,Boş
+Ev-27,"2,600,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,130 m²,3+1,Düz Giriş (Zemin),Merkezi Doğalgaz,140 m²,2,5,Boş
+Ev-28,"1,600,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,85 m²,2+0,Düz Giriş (Zemin),Isıtma Yok,90 m²,11-15,8,Kiracı Oturuyor
+Ev-29,"1,250,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,140 m²,3+1,5.Kat,Kombi Doğalgaz,145 m²,21 Ve Üzeri,5,Boş
+Ev-30,"3,000,000TL",Elazığ - Elazığ Merkez - Sarayatik Mahallesi,145 m²,3+1,8.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),9,Boş
+Ev-31,"4,000,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,180 m²,4+1,8.Kat,Kombi Doğalgaz,200 m²,0 (Yeni),8,Boş
+Ev-32,"1,750,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,140 m²,3+1,5.Kat,Kombi Doğalgaz,160 m²,16-20,5,Mülk Sahibi Oturuyor
+Ev-33,"2,400,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,145 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,160 m²,4,5,Boş
+Ev-34,"3,475,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,190 m²,4+1,2.Kat,Kombi Doğalgaz,210 m²,5-10,5,Boş
+Ev-35,"2,400,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,200 m²,4+1,1.Kat,Kombi Doğalgaz,210 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-36,"2,250,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,200 m²,4+1,Yüksek Giriş,Kombi Doğalgaz,210 m²,11-15,5,Kiracı Oturuyor
+Ev-37,"2,150,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü (Gedenek Mahallesi),110 m²,3+1,2.Kat,Merkezi Doğalgaz,130 m²,2,5,Kiracı Oturuyor
+Ev-38,"3,625,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,180 m²,4+1,8.Kat,Merkezi Doğalgaz,195 m²,5-10,10,Kiracı Oturuyor
+Ev-39,"2,785,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,168 m²,4,7,Kiracı Oturuyor
+Ev-40,"3,250,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,165 m²,3+1,2.Kat,Kombi Fueloil,185 m²,0 (Yeni),5,Mülk Sahibi Oturuyor
+Ev-41,"3,355,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,160 m²,3+1,7.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),8,Boş
+Ev-42,"3,100,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,190 m²,4+1,3.Kat,Kombi Doğalgaz,220 m²,5-10,5,Boş
+Ev-43,"2,650,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,5-10,5,Kiracı Oturuyor
+Ev-44,"1,670,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,140 m²,3+1,4.Kat,Kombi Doğalgaz,145 m²,5-10,4,Boş
+Ev-45,"1,950,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,90 m²,2+1,1.Kat,Kombi Doğalgaz,110 m²,5-10,5,Kiracı Oturuyor
+Ev-46,"3,500,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,0 (Yeni),7,Boş
+Ev-47,"1,620,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,175 m²,4+1,4.Kat,Kombi Doğalgaz,195 m²,21 Ve Üzeri,5,Boş
+Ev-48,"3,300,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,175 m²,4+1,7.Kat,Kombi Doğalgaz,190 m²,1,9,Boş
+Ev-49,"3,390,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,220 m²,4+1,6.Kat,Merkezi Doğalgaz,260 m²,11-15,10,Boş
+Ev-50,"3,475,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,205 m²,4+1,6.Kat,Merkezi (Pay Ölçer),225 m²,5-10,9,Mülk Sahibi Oturuyor
+Ev-51,"2,690,000TL",Elazığ - Elazığ Merkez - Fevzi Çakmak Mahallesi,155 m²,3+1,2.Kat,Kombi Doğalgaz,165 m²,11-15,5,Boş
+Ev-52,"4,850,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,155 m²,3+1,5.Kat,Merkezi Doğalgaz,170 m²,0 (Yeni),9,Boş
+Ev-53,"1,750,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-54,"2,200,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü,100 m²,3+1,3.Kat,Merkezi Doğalgaz,110 m²,0 (Yeni),5,Boş
+Ev-55,"1,750,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,95 m²,2+1,5.Kat,Kombi Doğalgaz,110 m²,11-15,11,Boş
+Ev-56,"3,500,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,185 m²,4+1,4.Kat,Kombi Doğalgaz,200 m²,5-10,4,Boş
+Ev-57,"4,500,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,175 m²,3+1,5.Kat,Kombi Doğalgaz,200 m²,0 (Yeni),10,Boş
+Ev-58,"4,150,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,175 m²,3+1,2.Kat,Kombi Doğalgaz,200 m²,0 (Yeni),10,Boş
+Ev-59,"2,350,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,150 m²,3+1,10.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),11,Boş
+Ev-60,"2,300,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,130 m²,3+1,7.Kat,Kombi Doğalgaz,150 m²,0 (Yeni),7,Boş
+Ev-61,"1,800,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,5,Boş
+Ev-62,"2,200,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,185 m²,4+1,3.Kat,Kombi Doğalgaz,200 m²,16-20,5,Boş
+Ev-63,"3,750,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,148 m²,3+1,5.Kat,Kombi Doğalgaz,162 m²,0 (Yeni),8,Boş
+Ev-64,"2,250,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,150 m²,3+1,Düz Giriş (Zemin),Kombi Doğalgaz,185 m²,5-10,8,Mülk Sahibi Oturuyor
+Ev-65,"2,400,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,160 m²,3+1,10.Kat,Kombi Doğalgaz,175 m²,4,11,Boş
+Ev-66,"4,000,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,170 m²,3+1,7.Kat,Kombi Doğalgaz,185 m²,4,8,Mülk Sahibi Oturuyor
+Ev-67,"3,200,000TL",Elazığ - Elazığ Merkez - İcadiye Mahallesi,155 m²,3+1,9.Kat,Kombi Doğalgaz,170 m²,3,11,Boş
+Ev-68,"1,750,000TL",Elazığ - Elazığ Merkez - Çatal Çeşme Mahallesi,90 m²,2+1,2.Kat,Merkezi Doğalgaz,100 m²,2,4,Mülk Sahibi Oturuyor
+Ev-69,"1,100,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,65 m²,2+1,Düz Giriş (Zemin),Kombi Doğalgaz,75 m²,11-15,4,Kiracı Oturuyor
+Ev-70,"2,100,000TL",Elazığ - Elazığ Merkez - Fevzi Çakmak Mahallesi,120 m²,2+1,2.Kat,Kombi Doğalgaz,135 m²,5-10,5,Boş
+Ev-71,"1,550,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,125 m²,3+1,3.Kat,Kombi Doğalgaz,145 m²,4,5,Mülk Sahibi Oturuyor
+Ev-72,"1,985,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,140 m²,3+1,2.Kat,Kombi Doğalgaz,160 m²,11-15,4,Boş
+Ev-73,"1,320,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,155 m²,3+1,3.Kat,Merkezi (Pay Ölçer),175 m²,21 Ve Üzeri,4,Boş
+Ev-74,"1,550,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,150 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,165 m²,11-15,5,Boş
+Ev-75,"2,550,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,165 m²,3+1,2.Kat,Kombi Doğalgaz,175 m²,5-10,4,Kiracı Oturuyor
+Ev-76,"2,150,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,160 m²,3+1,2.Kat,Kombi Doğalgaz,175 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-77,"2,980,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,200 m²,4+1,4.Kat,Kombi Doğalgaz,220 m²,11-15,5,Boş
+Ev-78,"2,500,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,170 m²,3+1,Düz Giriş (Zemin),Kombi Doğalgaz,195 m²,5-10,6,Boş
+Ev-79,"2,100,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,145 m²,3+1,1.Kat,Merkezi (Pay Ölçer),155 m²,11-15,8,Boş
+Ev-80,"2,050,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,135 m²,3+1,1.Kat,Kombi Doğalgaz,155 m²,5-10,10,Mülk Sahibi Oturuyor
+Ev-81,"2,400,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,100 m²,2+1,8.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),8,Boş
+Ev-82,"3,900,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,100 m²,2+1,2.Kat,Kombi Doğalgaz,120 m²,5-10,3,Boş
+Ev-83,"1,800,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,100 m²,2+1,2.Kat,Merkezi (Pay Ölçer),120 m²,4,10,Mülk Sahibi Oturuyor
+Ev-84,"2,100,000TL",Elazığ - Elazığ Merkez - İcadiye Mahallesi,140 m²,3+1,3.Kat,Kombi Doğalgaz,160 m²,5-10,7,Boş
+Ev-85,"1,250,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,125 m²,2+1,4.Kat,Kombi Doğalgaz,135 m²,16-20,4,Boş
+Ev-86,"4,660,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,225 m²,5+1,8.Kat,Kombi Doğalgaz,245 m²,0 (Yeni),9,Boş
+Ev-87,"2,400,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,95 m²,2+1,4.Kat,Merkezi (Pay Ölçer),105 m²,3,4,Boş
+Ev-88,"4,350,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,205 m²,4+1,3.Kat,Merkezi (Pay Ölçer),235 m²,0 (Yeni),7,Boş
+Ev-89,"4,650,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,205 m²,4+1,4.Kat,Kombi Doğalgaz,220 m²,0 (Yeni),6,Boş
+Ev-90,"1,375,000TL",Elazığ - Elazığ Merkez - Rüstem Paşa Mahallesi,100 m²,3+1,6.Kat,Kombi Doğalgaz,120 m²,21 Ve Üzeri,7,Boş
+Ev-91,"2,750,000TLarrow_downward%7",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,210 m²,4+1,3.Kat,Merkezi Doğalgaz,230 m²,16-20,8,Boş
+Ev-92,"920,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,135 m²,3+1,2.Kat,Kombi Doğalgaz,140 m²,21 Ve Üzeri,5,Boş
+Ev-93,"1,475,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,48 m²,1+1,Yüksek Giriş,Kombi Doğalgaz,56 m²,2,4,Boş
+Ev-94,"3,175,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,130 m²,3+1,5.Kat,Kombi Doğalgaz,148 m²,0 (Yeni),7,Boş
+Ev-95,"3,000,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),10,Boş
+Ev-96,"1,695,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,155 m²,3+1,2.Kat,Kombi Doğalgaz,175 m²,21 Ve Üzeri,5,Boş
+Ev-97,"3,250,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,145 m²,3+1,2.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),5,Boş
+Ev-98,"3,750,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,190 m²,4+1,2.Kat,Merkezi Doğalgaz,233 m²,5-10,5,Boş
+Ev-99,"1,600,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,110 m²,3+1,3.Kat,Doğalgaz Sobalı,120 m²,11-15,5,Boş
+Ev-100,"2,200,000TLarrow_downward%6",Elazığ - Elazığ Merkez - Yeni Mahallesi,100 m²,3+1,1.Kat,Doğalgaz Sobalı,118 m²,0 (Yeni),7,Boş
+Ev-101,"1,070,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,90 m²,2+1,3.Kat,Kombi Doğalgaz,100 m²,21 Ve Üzeri,4,Mülk Sahibi Oturuyor
+Ev-102,"1,650,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,90 m²,2+1,2.Kat,Merkezi Doğalgaz,100 m²,3,5,Kiracı Oturuyor
+Ev-103,"2,485,000TL",Elazığ - Elazığ Merkez - Yıldız Bağları Mahallesi,120 m²,2+1,Yüksek Giriş,Kombi Doğalgaz,140 m²,0 (Yeni),5,Boş
+Ev-104,"2,700,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,150 m²,3+1,3.Kat,Kombi Doğalgaz,160 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-105,"1,300,000TL",Elazığ - Elazığ Merkez - Sarayatik Mahallesi,145 m²,3+1,4.Kat,Kombi Doğalgaz,164 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-106,"1,650,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,120 m²,3+1,1.Kat,Kombi Doğalgaz,140 m²,5-10,5,Kiracı Oturuyor
+Ev-107,"3,050,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,170 m²,3+1,1.Kat,Kombi Doğalgaz,190 m²,0 (Yeni),5,Boş
+Ev-108,"2,750,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,125 m²,3+1,4.Kat,Kombi Doğalgaz,135 m²,0 (Yeni),7,Boş
+Ev-109,"2,100,000TL",Elazığ - Elazığ Merkez - Yıldız Bağları Mahallesi,120 m²,2+1,3.Kat,Kombi Doğalgaz,135 m²,4,7,Boş
+Ev-110,"1,685,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,21 Ve Üzeri,4,Kiracı Oturuyor
+Ev-111,"1,900,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,165 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,175 m²,16-20,4,Kiracı Oturuyor
+Ev-112,"3,200,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,120 m²,3+1,3.Kat,Kombi Doğalgaz,140 m²,0 (Yeni),8,Boş
+Ev-113,"3,800,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-114,"3,600,000TL",Elazığ - Elazığ Merkez - Fevzi Çakmak Mahallesi,185 m²,3+1,3.Kat,Kombi Doğalgaz,220 m²,0 (Yeni),4,Boş
+Ev-115,"3,250,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,180 m²,4+1,5.Kat,Merkezi (Pay Ölçer),220 m²,11-15,9,Mülk Sahibi Oturuyor
+Ev-116,"3,950,000TL",Elazığ - Elazığ Merkez - Hilalkent Mahallesi,285 m²,5+2,5.Kat,Kombi Doğalgaz,320 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-117,"4,300,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,175 m²,3+1,1.Kat,Kombi Doğalgaz,195 m²,0 (Yeni),10,Boş
+Ev-118,"1,650,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,120 m²,3+1,3.Kat,Doğalgaz Sobalı,130 m²,11-15,5,Boş
+Ev-119,"5,695,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,225 m²,4+1,Yüksek Giriş,Merkezi Doğalgaz,260 m²,0 (Yeni),9,Boş
+Ev-120,"3,985,000TL",Elazığ - Elazığ Merkez - Şahinkaya Köyü (Veran Mahallesi),175 m²,4+1,Yüksek Giriş,Kombi Doğalgaz,200 m²,0 (Yeni),8,Boş
+Ev-121,"3,500,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,180 m²,4+1,3.Kat,Merkezi Doğalgaz,190 m²,0 (Yeni),8,Boş
+Ev-122,"1,830,000TL",Elazığ - Elazığ Merkez - Çatal Çeşme Mahallesi,100 m²,2+1,Yüksek Giriş,Doğalgaz Sobalı,110 m²,2,5,Kiracı Oturuyor
+Ev-123,"1,450,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,150 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,16-20,5,Bilinmiyor
+Ev-124,"1,750,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,125 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,145 m²,5-10,8,Boş
+Ev-125,"2,250,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,160 m²,16-20,Bilinmiyor,Boş
+Ev-126,"4,250,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,200 m²,4+1,4.Kat,Merkezi Doğalgaz,220 m²,11-15,8,Mülk Sahibi Oturuyor
+Ev-127,"4,200,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,8.Kat,Merkezi Doğalgaz,220 m²,0 (Yeni),8,Boş
+Ev-128,"3,900,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,185 m²,4+1,4.Kat,Kombi Doğalgaz,225 m²,0 (Yeni),9,Boş
+Ev-129,"1,950,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,145 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,11-15,4,Mülk Sahibi Oturuyor
+Ev-130,"4,600,000TL",Elazığ - Elazığ Merkez - Şahinkaya Köyü (Veran Mahallesi),195 m²,4+1,6.Kat,Merkezi (Pay Ölçer),210 m²,0 (Yeni),8,Boş
+Ev-131,"3,850,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,155 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),7,Boş
+Ev-132,"1,920,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,85 m²,2+2,Yüksek Giriş,Kombi Doğalgaz,100 m²,0 (Yeni),4,Boş
+Ev-133,"3,250,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,200 m²,4+1,2.Kat,Merkezi Doğalgaz,220 m²,11-15,7,Boş
+Ev-134,"1,950,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,145 m²,3+1,7.Kat,Merkezi (Pay Ölçer),160 m²,5-10,10,Kiracı Oturuyor
+Ev-135,"2,600,000TL",Elazığ - Elazığ Merkez - Fevzi Çakmak Mahallesi,120 m²,2+1,2.Kat,Kombi Doğalgaz,135 m²,0 (Yeni),4,Boş
+Ev-136,"1,425,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,165 m²,3+1,1.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,5,Boş
+Ev-137,"2,250,000TL",Elazığ - Elazığ Merkez - Sarayatik Mahallesi,170 m²,3+1,4.Kat,Kombi Doğalgaz,180 m²,11-15,5,Boş
+Ev-138,"2,970,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,160 m²,3+1,8.Kat,Kombi Doğalgaz,170 m²,4,12,Boş
+Ev-139,"1,750,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,55 m²,1+1,Yüksek Giriş,Kombi Doğalgaz,60 m²,1,4,Kiracı Oturuyor
+Ev-140,"1,350,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,120 m²,1 Oda,4.Kat,Doğalgaz Sobalı,140 m²,21 Ve Üzeri,5,Boş
+Ev-141,"2,100,000TL",Elazığ - Elazığ Merkez - Akpınar Mahallesi,140 m²,3+1,3.Kat,Doğalgaz Sobalı,160 m²,21 Ve Üzeri,4,Mülk Sahibi Oturuyor
+Ev-142,"2,755,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,85 m²,2+1,5.Kat,Kombi Doğalgaz,100 m²,0 (Yeni),8,Boş
+Ev-143,"2,250,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,300 m²,3+1,5.Kat,Kombi Doğalgaz,320 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-144,"3,300,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,Yüksek Giriş,Merkezi (Pay Ölçer),220 m²,0 (Yeni),10,Boş
+Ev-145,"1,820,000TLarrow_downward%7",Elazığ - Elazığ Merkez - Güneykent Mahallesi,85 m²,2+1,3.Kat,Merkezi Doğalgaz,93 m²,4,5,Kiracı Oturuyor
+Ev-146,"900,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,135 m²,3+1,5.Kat,Kombi Doğalgaz,155 m²,21 Ve Üzeri,5,Boş
+Ev-147,"2,340,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,115 m²,2+1,3.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),9,Boş
+Ev-148,"4,490,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,190 m²,4+1,5.Kat,Merkezi Doğalgaz,220 m²,0 (Yeni),9,Boş
+Ev-149,"2,300,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,160 m²,3+1,1.Kat,Merkezi Doğalgaz,175 m²,16-20,7,Mülk Sahibi Oturuyor
+Ev-150,"1,090,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,125 m²,2+1,4.Kat,Kombi Doğalgaz,130 m²,21 Ve Üzeri,4,Kiracı Oturuyor
+Ev-151,"1,950,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,110 m²,2+1,6.Kat,Kombi Doğalgaz,125 m²,11-15,6,Boş
+Ev-152,"2,950,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,110 m²,2+1,4.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),5,Boş
+Ev-153,"2,450,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,185 m²,3+1,1.Kat,Kombi Doğalgaz,195 m²,11-15,5,Boş
+Ev-154,"3,850,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,200 m²,4+1,1.Kat,Merkezi Doğalgaz,240 m²,3,7,Boş
+Ev-155,"2,620,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,200 m²,4+1,3.Kat,Kombi Doğalgaz,240 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-156,"4,650,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,190 m²,4+1,9.Kat,Merkezi Doğalgaz,210 m²,2,17,Boş
+Ev-157,"3,500,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,125 m²,3+1,3.Kat,Kombi Doğalgaz,145 m²,0 (Yeni),4,Boş
+Ev-158,"1,500,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,50 m²,1+1,2.Kat,Kombi Doğalgaz,70 m²,0 (Yeni),3,Boş
+Ev-159,"2,500,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,100 m²,2+1,3.Kat,Kombi Doğalgaz,115 m²,0 (Yeni),6,Boş
+Ev-160,"3,290,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,135 m²,3+1,4.Kat,Merkezi (Pay Ölçer),150 m²,0 (Yeni),5,Boş
+Ev-161,"4,200,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,325 m²,6+2,4.Kat,Kombi Doğalgaz,400 m²,16-20,4,Mülk Sahibi Oturuyor
+Ev-162,"1,350,000TL",Elazığ - Elazığ Merkez - Nail Bey Mahallesi,150 m²,3+1,1.Kat,Kombi Doğalgaz,170 m²,16-20,5,Boş
+Ev-163,"4,550,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,180 m²,0 (Yeni),9,Boş
+Ev-164,"1,680,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,145 m²,3+1,1.Kat,Kombi Doğalgaz,160 m²,5-10,5,Kiracı Oturuyor
+Ev-165,"1,780,000TL",Elazığ - Elazığ Merkez - Rüstem Paşa Mahallesi,240 m²,5+1,5.Kat,Kombi Doğalgaz,260 m²,11-15,5,Boş
+Ev-166,"4,050,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,165 m²,3+1,3.Kat,Kombi Doğalgaz,180 m²,4,6,Kiracı Oturuyor
+Ev-167,"4,200,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,195 m²,4+1,2.Kat,Kombi Doğalgaz,215 m²,0 (Yeni),5,Boş
+Ev-168,"2,850,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,145 m²,3+1,2.Kat,Kombi Doğalgaz,165 m²,2,9,Mülk Sahibi Oturuyor
+Ev-169,"6,000,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,200 m²,4+1,6.Kat,Merkezi Doğalgaz,220 m²,0 (Yeni),12,Boş
+Ev-170,"940,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,70 m²,2+1,Düz Giriş (Zemin),Merkezi Doğalgaz,90 m²,11-15,5,Boş
+Ev-171,"2,500,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,105 m²,2+1,2.Kat,Kombi Doğalgaz,115 m²,0 (Yeni),5,Boş
+Ev-172,"3,320,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,155 m²,3+1,2.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),4,Boş
+Ev-173,"1,810,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü (Yeniköy Mahallesi),110 m²,3+1,Yüksek Giriş,Merkezi (Pay Ölçer),120 m²,2,4,Boş
+Ev-174,"1,345,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,130 m²,3+1,5.Kat,Kombi Doğalgaz,155 m²,16-20,5,Mülk Sahibi Oturuyor
+Ev-175,"3,900,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,180 m²,4+1,8.Kat,Merkezi Doğalgaz,230 m²,5-10,9,Boş
+Ev-176,"2,795,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,170 m²,4+1,6.Kat,Merkezi Doğalgaz,200 m²,11-15,6,Mülk Sahibi Oturuyor
+Ev-177,"4,500,000TLarrow_downward%18",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,190 m²,4+1,2.Kat,Merkezi (Pay Ölçer),225 m²,0 (Yeni),14,Boş
+Ev-178,"1,795,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,185 m²,16-20,4,Mülk Sahibi Oturuyor
+Ev-179,"2,250,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,90 m²,2+1,3.Kat,Kombi Doğalgaz,110 m²,0 (Yeni),4,Boş
+Ev-180,"2,250,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,170 m²,3+1,4.Kat,Kombi Doğalgaz,180 m²,11-15,4,Mülk Sahibi Oturuyor
+Ev-181,"2,650,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,1.Kat,Kombi Doğalgaz,155 m²,3,6,Boş
+Ev-182,"3,700,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,190 m²,4+1,7.Kat,Merkezi (Pay Ölçer),210 m²,5-10,7,Mülk Sahibi Oturuyor
+Ev-183,"2,350,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,165 m²,3+1,1.Kat,Kombi Doğalgaz,175 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-184,"1,750,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,100 m²,3+1,1.Kat,Kombi Doğalgaz,110 m²,5-10,4,Boş
+Ev-185,"2,680,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,190 m²,4+1,2.Kat,Kombi Doğalgaz,200 m²,11-15,5,Kiracı Oturuyor
+Ev-186,"1,770,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü (Yadigar Mahallesi),80 m²,2+1,3.Kat,Merkezi (Pay Ölçer),100 m²,4,4,Mülk Sahibi Oturuyor
+Ev-187,"2,750,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,190 m²,4+1,1.Kat,Kombi Doğalgaz,210 m²,4,4,Kiracı Oturuyor
+Ev-188,"2,625,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,190 m²,4+1,1.Kat,Kombi Doğalgaz,220 m²,11-15,6,Boş
+Ev-189,"1,600,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,16-20,5,Mülk Sahibi Oturuyor
+Ev-190,"2,850,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,155 m²,2,7,Mülk Sahibi Oturuyor
+Ev-191,"1,300,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,125 m²,3+1,Düz Giriş (Zemin),Kombi Doğalgaz,145 m²,11-15,5,Boş
+Ev-192,"3,400,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,130 m²,3+1,4.Kat,Kombi Doğalgaz,150 m²,2,4,Boş
+Ev-193,"1,650,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,140 m²,3+1,5.Kat,Kombi Doğalgaz,155 m²,11-15,5,Kiracı Oturuyor
+Ev-194,"2,800,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,100 m²,2+1,3.Kat,Kombi Doğalgaz,115 m²,0 (Yeni),10,Boş
+Ev-195,"1,570,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,110 m²,2+1,4.Kat,Kombi Doğalgaz,123 m²,21 Ve Üzeri,4,Mülk Sahibi Oturuyor
+Ev-196,"965,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,110 m²,2+1,Bodrum Kat,Kombi Doğalgaz,120 m²,11-15,5,Kiracı Oturuyor
+Ev-197,"2,550,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,130 m²,3+1,4.Kat,Kombi Doğalgaz,150 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-198,"4,300,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,210 m²,4+1,3.Kat,Kombi Doğalgaz,230 m²,4,7,Boş
+Ev-199,"1,615,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,100 m²,2+1,Yüksek Giriş,Merkezi Doğalgaz,115 m²,2,5,Boş
+Ev-200,"2,700,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,100 m²,2+1,3.Kat,Kombi Doğalgaz,110 m²,0 (Yeni),5,Kiracı Oturuyor
+Ev-201,"1,275,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,140 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,21 Ve Üzeri,5,Boş
+Ev-202,"2,980,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,170 m²,3+1,4.Kat,Merkezi Doğalgaz,210 m²,3,8,Boş
+Ev-203,"2,650,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,105 m²,2+1,2.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),4,Boş
+Ev-204,"1,685,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,95 m²,2+1,4.Kat,Merkezi Doğalgaz,110 m²,0 (Yeni),4,Kiracı Oturuyor
+Ev-205,"3,795,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,160 m²,3+1,11.Kat,Merkezi (Pay Ölçer),185 m²,3,18,Boş
+Ev-206,"1,275,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,160 m²,3+1,5.Kat,Kombi Doğalgaz,180 m²,21 Ve Üzeri,5,Boş
+Ev-207,"1,150,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,150 m²,3+1,Bodrum Kat,Kombi Doğalgaz,165 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-208,"3,100,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,150 m²,3+1,1.Kat,Kombi Doğalgaz,165 m²,1,6,Kiracı Oturuyor
+Ev-209,"2,500,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,70 m²,2+1,4.Kat,Kombi Doğalgaz,90 m²,1,4,Mülk Sahibi Oturuyor
+Ev-210,"3,000,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,135 m²,3+1,4.Kat,Merkezi (Pay Ölçer),145 m²,0 (Yeni),6,Boş
+Ev-211,"3,700,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,185 m²,4+1,5.Kat,Merkezi (Pay Ölçer),195 m²,0 (Yeni),8,Boş
+Ev-212,"3,200,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,190 m²,4+1,2.Kat,Kombi Doğalgaz,200 m²,0 (Yeni),8,Boş
+Ev-213,"850,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,21 Ve Üzeri,Bilinmiyor,Boş
+Ev-214,"2,900,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,145 m²,3+1,2.Kat,Kombi Doğalgaz,160 m²,5-10,Bilinmiyor,Boş
+Ev-215,"1,750,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,155 m²,3+1,1.Kat,Kombi Doğalgaz,175 m²,16-20,4,Boş
+Ev-216,"3,250,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,175 m²,3.5+1,4.Kat,Kombi Doğalgaz,190 m²,4,4,Boş
+Ev-217,"3,500,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,160 m²,3+1,3.Kat,Kombi Doğalgaz,178 m²,0 (Yeni),8,Boş
+Ev-218,"5,900,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,3.Kat,Merkezi (Pay Ölçer),250 m²,0 (Yeni),8,Boş
+Ev-219,"3,499,999TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,210 m²,4+1,3.Kat,Merkezi Doğalgaz,225 m²,5-10,9,Mülk Sahibi Oturuyor
+Ev-220,"1,660,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,45 m²,1+1,2.Kat,Kombi Doğalgaz,55 m²,0 (Yeni),4,Boş
+Ev-221,"3,300,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,130 m²,3+1,1.Kat,Kombi Doğalgaz,150 m²,0 (Yeni),5,Boş
+Ev-222,"2,850,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,135 m²,3+1,5.Kat,Kombi Doğalgaz,152 m²,0 (Yeni),7,Boş
+Ev-223,"2,000,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,160 m²,3+1,4.Kat,Kombi Doğalgaz,175 m²,16-20,5,Boş
+Ev-224,"3,300,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,140 m²,3+1,3.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),5,Boş
+Ev-225,"2,700,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,180 m²,3+1,8.Kat,Kombi Doğalgaz,200 m²,3,8,Mülk Sahibi Oturuyor
+Ev-226,"1,625,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,180 m²,4+1,Düz Giriş (Zemin),Kombi Doğalgaz,210 m²,5-10,8,Kiracı Oturuyor
+Ev-227,"3,050,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,157 m²,3+1,2.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),5,Boş
+Ev-228,"2,475,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,115 m²,3+1,5.Kat,Merkezi Doğalgaz,130 m²,3,5,Mülk Sahibi Oturuyor
+Ev-229,"2,800,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,140 m²,3+1,7.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),7,Boş
+Ev-230,"3,900,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,220 m²,4+1,10.Kat,Merkezi (Pay Ölçer),235 m²,0 (Yeni),18,Boş
+Ev-231,"3,700,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,150 m²,3+1,8.Kat,Merkezi (Pay Ölçer),160 m²,0 (Yeni),18,Boş
+Ev-232,"3,500,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,180 m²,3+1,5.Kat,Merkezi (Pay Ölçer),200 m²,0 (Yeni),18,Boş
+Ev-233,"1,485,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,50 m²,1+1,4.Kat,Kombi Doğalgaz,60 m²,0 (Yeni),4,Boş
+Ev-234,"1,075,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,140 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,4,Boş
+Ev-235,"2,390,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Fevzi Çakmak Mahallesi,130 m²,2+1,1.Kat,Kombi Doğalgaz,145 m²,0 (Yeni),7,Boş
+Ev-236,"2,450,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,170 m²,5-10,7,Boş
+Ev-237,"2,550,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,155 m²,3+1,6.Kat,Kombi Doğalgaz,175 m²,4,12,Mülk Sahibi Oturuyor
+Ev-238,"1,775,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,135 m²,3+1,Düz Giriş (Zemin),Merkezi (Pay Ölçer),145 m²,1,5,Boş
+Ev-239,"2,000,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,190 m²,3+1,2.Kat,Kombi Doğalgaz,200 m²,11-15,5,Boş
+Ev-240,"2,450,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,140 m²,3+1,7.Kat,Kombi Doğalgaz,155 m²,5-10,8,Boş
+Ev-241,"2,795,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,145 m²,3+1,5.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),5,Boş
+Ev-242,"2,400,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,160 m²,4+1,4.Kat,Kombi Doğalgaz,170 m²,5-10,Bilinmiyor,Boş
+Ev-243,"2,700,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,80 m²,2+1,2.Kat,Kombi Doğalgaz,95 m²,0 (Yeni),4,Boş
+Ev-244,"3,300,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,1.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-245,"3,500,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,140 m²,3+1,7.Kat,Kombi Doğalgaz,155 m²,0 (Yeni),11,Boş
+Ev-246,"2,350,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Üniversite Mahallesi,115 m²,2+1,8.Kat,Kombi Doğalgaz,135 m²,1,8,Boş
+Ev-247,"2,749,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,100 m²,2+1,2.Kat,Kombi Doğalgaz,115 m²,0 (Yeni),4,Boş
+Ev-248,"1,299,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,53 m²,1+1,4.Kat,Kombi Doğalgaz,63 m²,5-10,5,Boş
+Ev-249,"1,550,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,145 m²,3+1,6.Kat,Kombi Doğalgaz,155 m²,21 Ve Üzeri,8,Boş
+Ev-250,"2,750,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,135 m²,3+1,8.Kat,Kombi Doğalgaz,148 m²,4,8,Boş
+Ev-251,"2,950,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,160 m²,3+1,3.Kat,Kombi Doğalgaz,180 m²,5-10,10,Mülk Sahibi Oturuyor
+Ev-252,"995,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,120 m²,2+1,Yüksek Giriş,Kombi Doğalgaz,140 m²,21 Ve Üzeri,Bilinmiyor,Boş
+Ev-253,"1,700,000TL",Elazığ - Elazığ Merkez - Gedikyolu Köyü,145 m²,3+1,4.Kat,Kombi Doğalgaz,165 m²,16-20,5,Boş
+Ev-254,"2,650,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Yeni Mahallesi,120 m²,3+1,3.Kat,Kombi Doğalgaz,135 m²,0 (Yeni),9,Boş
+Ev-255,"2,820,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,120 m²,2+1,2.Kat,Kombi Doğalgaz,135 m²,0 (Yeni),4,Boş
+Ev-256,"1,050,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,145 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,21 Ve Üzeri,5,Boş
+Ev-257,"4,450,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,2.Kat,Merkezi Doğalgaz,220 m²,5-10,9,Boş
+Ev-258,"2,100,000TLarrow_downward%5",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,145 m²,3+1,2.Kat,Kombi Doğalgaz,160 m²,11-15,5,Boş
+Ev-259,"2,350,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,100 m²,2+1,7.Kat,Kombi Doğalgaz,120 m²,1,7,Boş
+Ev-260,"1,700,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,150 m²,3+1,7.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,7,Kiracı Oturuyor
+Ev-261,"2,800,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,190 m²,4+1,1.Kat,Kombi Doğalgaz,200 m²,3,5,Mülk Sahibi Oturuyor
+Ev-262,"1,750,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,11-15,Bilinmiyor,Boş
+Ev-263,"1,650,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,120 m²,3+1,2.Kat,Kombi Doğalgaz,135 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-264,"1,750,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,110 m²,3+1,3.Kat,Kombi Doğalgaz,130 m²,16-20,4,Mülk Sahibi Oturuyor
+Ev-265,"1,050,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,105 m²,3+1,Kot 1 (-1).Kat,Kombi Doğalgaz,120 m²,11-15,5,Kiracı Oturuyor
+Ev-266,"1,750,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,65 m²,1+1,2.Kat,Kombi Doğalgaz,80 m²,1,8,Mülk Sahibi Oturuyor
+Ev-267,"3,550,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,140 m²,3+1,Bilinmiyor,Kombi Doğalgaz,165 m²,0 (Yeni),5,Boş
+Ev-268,"2,300,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,165 m²,5-10,5,Boş
+Ev-269,"1,400,000TL",Elazığ - Elazığ Merkez - İcadiye Mahallesi,170 m²,3+1,1.Kat,Kombi Doğalgaz,185 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-270,"1,750,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,120 m²,3+1,3.Kat,Merkezi Doğalgaz,130 m²,0 (Yeni),5,Boş
+Ev-271,"1,575,000TLarrow_downward%5",Elazığ - Elazığ Merkez - Yeni Mahallesi,120 m²,3+1,4.Kat,Kombi Doğalgaz,135 m²,5-10,4,Boş
+Ev-272,"1,725,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,135 m²,3+1,Düz Giriş (Zemin),Kombi Doğalgaz,150 m²,5-10,Bilinmiyor,Kiracı Oturuyor
+Ev-273,"2,550,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,95 m²,2+1,5.Kat,Kombi Doğalgaz,110 m²,0 (Yeni),Bilinmiyor,Boş
+Ev-274,"2,775,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,155 m²,3+1,2.Kat,Kombi Doğalgaz,170 m²,2,6,Kiracı Oturuyor
+Ev-275,"5,000,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,205 m²,3+1,2.Kat,Kombi Doğalgaz,225 m²,0 (Yeni),9,Boş
+Ev-276,"1,050,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,100 m²,3+1,5.Kat,Kombi Doğalgaz,125 m²,21 Ve Üzeri,5,Kiracı Oturuyor
+Ev-277,"980,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,165 m²,21 Ve Üzeri,4,Boş
+Ev-278,"980,000TL",Elazığ - Elazığ Merkez - Nail Bey Mahallesi,130 m²,3+1,2.Kat,Kombi Doğalgaz,140 m²,21 Ve Üzeri,5,Kiracı Oturuyor
+Ev-279,"1,890,000TL",Elazığ - Elazığ Merkez - İcadiye Mahallesi,115 m²,2+1,6.Kat,Kombi Doğalgaz,130 m²,1,9,Boş
+Ev-280,"1,850,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,135 m²,3+1,1.Kat,Merkezi (Pay Ölçer),145 m²,4,5,Kiracı Oturuyor
+Ev-281,"2,320,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,170 m²,3+1,2.Kat,Kombi Doğalgaz,185 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-282,"1,670,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,145 m²,3+1,4.Kat,Kombi Doğalgaz,165 m²,16-20,4,Boş
+Ev-283,"3,100,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,120 m²,3+1,3.Kat,Kombi Doğalgaz,145 m²,0 (Yeni),5,Boş
+Ev-284,"3,100,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,160 m²,3+1,11.Kat,Kombi Doğalgaz,180 m²,4,11,Mülk Sahibi Oturuyor
+Ev-285,"1,745,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,131 m²,3+1,1.Kat,Kombi Doğalgaz,145 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-286,"1,399,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,60 m²,2+1,2.Kat,Merkezi (Pay Ölçer),65 m²,11-15,3,Mülk Sahibi Oturuyor
+Ev-287,"1,275,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,170 m²,16-20,5,Boş
+Ev-288,"4,100,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,180 m²,4+1,1.Kat,Kombi Doğalgaz,200 m²,0 (Yeni),9,Boş
+Ev-289,"1,450,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,120 m²,3+1,6.Kat,Kombi Doğalgaz,140 m²,21 Ve Üzeri,7,Boş
+Ev-290,"2,495,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,155 m²,4+1,4.Kat,Kombi Doğalgaz,170 m²,5-10,4,Kiracı Oturuyor
+Ev-291,"2,200,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,170 m²,3+1,1.Kat,Kombi Doğalgaz,185 m²,5-10,7,Mülk Sahibi Oturuyor
+Ev-292,"2,400,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,170 m²,3+1,5.Kat,Kombi Doğalgaz,185 m²,5-10,7,Mülk Sahibi Oturuyor
+Ev-293,"1,850,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,100 m²,2+1,2.Kat,Kombi Doğalgaz,120 m²,5-10,3,Mülk Sahibi Oturuyor
+Ev-294,"1,290,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,21 Ve Üzeri,5,Boş
+Ev-295,"3,680,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,230 m²,5+1,7.Kat,Kombi Doğalgaz,250 m²,0 (Yeni),8,Boş
+Ev-296,"2,150,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,135 m²,3+1,6.Kat,Merkezi (Pay Ölçer),155 m²,5-10,9,Boş
+Ev-297,"2,150,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,180 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,200 m²,11-15,5,Kiracı Oturuyor
+Ev-298,"2,700,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,120 m²,2+1,4.Kat,Kombi Doğalgaz,130 m²,0 (Yeni),4,Boş
+Ev-299,"2,850,000TL",Elazığ - Elazığ Merkez - Fevzi Çakmak Mahallesi,145 m²,3+1,8.Kat,Kombi Doğalgaz,155 m²,5-10,8,Boş
+Ev-300,"2,630,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,98 m²,2+1,2.Kat,Kombi Doğalgaz,112 m²,0 (Yeni),6,Boş
+Ev-301,"1,350,000TLarrow_downward%7",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,80 m²,2+1,3.Kat,Kombi Doğalgaz,85 m²,11-15,4,Kiracı Oturuyor
+Ev-302,"3,190,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,220 m²,4+1,3.Kat,Kombi Doğalgaz,230 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-303,"1,715,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,160 m²,3+1,1.Kat,Kombi Doğalgaz,175 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-304,"4,500,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,195 m²,4+1,4.Kat,Kombi Doğalgaz,210 m²,0 (Yeni),8,Boş
+Ev-305,"2,350,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,175 m²,3+1,1.Kat,Kombi Doğalgaz,195 m²,11-15,5,Boş
+Ev-306,"2,200,000TL",Elazığ - Elazığ Merkez - Yazıkonak Bld. (Fatih Mahallesi),150 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),6,Boş
+Ev-307,"785,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,110 m²,2+1,Bodrum Kat,Kombi Doğalgaz,130 m²,11-15,5,Boş
+Ev-308,"1,095,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,120 m²,3+1,1.Kat,Kombi Doğalgaz,140 m²,21 Ve Üzeri,5,Kiracı Oturuyor
+Ev-309,"3,295,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,130 m²,3+1,3.Kat,Kombi Doğalgaz,145 m²,0 (Yeni),5,Boş
+Ev-310,"1,500,000TL",Elazığ - Elazığ Merkez - Nail Bey Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,4,Boş
+Ev-311,"2,370,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,105 m²,2+1,2.Kat,Kombi Doğalgaz,115 m²,0 (Yeni),6,Boş
+Ev-312,"1,875,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,110 m²,3+1,Yüksek Giriş,Merkezi Doğalgaz,124 m²,3,5,Mülk Sahibi Oturuyor
+Ev-313,"1,350,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,65 m²,2+1,2.Kat,Kombi Doğalgaz,75 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-314,"5,450,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,210 m²,4+1,8.Kat,Merkezi Doğalgaz,240 m²,0 (Yeni),15,Boş
+Ev-315,"1,400,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,145 m²,3+1,Bodrum Kat,Kombi Doğalgaz,165 m²,5-10,5,Boş
+Ev-316,"1,300,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,150 m²,3+1,Bodrum Kat,Kombi Doğalgaz,160 m²,11-15,4,Mülk Sahibi Oturuyor
+Ev-317,"2,850,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,1.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),7,Boş
+Ev-318,"1,300,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,60 m²,2+1,Yüksek Giriş,Kombi Doğalgaz,70 m²,5-10,4,Boş
+Ev-319,"2,000,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,175 m²,3+1,2.Kat,Kombi Doğalgaz,195 m²,16-20,5,Boş
+Ev-320,"1,810,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Kırklar Mahallesi,110 m²,2+1,2.Kat,Merkezi Doğalgaz,130 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-321,"1,550,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,145 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,165 m²,21 Ve Üzeri,3,Boş
+Ev-322,"2,850,000TL",Elazığ - Elazığ Merkez - Güneykent Mahallesi,140 m²,3+1,1.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),4,Boş
+Ev-323,"2,650,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,200 m²,4+1,4.Kat,Merkezi Doğalgaz,220 m²,16-20,8,Kiracı Oturuyor
+Ev-324,"2,450,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,100 m²,3+1,5.Kat,Merkezi (Pay Ölçer),118 m²,2,5,Kiracı Oturuyor
+Ev-325,"1,849,000TL",Elazığ - Elazığ Merkez - Kırklar Mahallesi,130 m²,3+1,2.Kat,Kombi Doğalgaz,145 m²,11-15,3,Mülk Sahibi Oturuyor
+Ev-326,"1,100,000TLarrow_downward%14",Elazığ - Elazığ Merkez - Üniversite Mahallesi,100 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,115 m²,21 Ve Üzeri,4,Kiracı Oturuyor
+Ev-327,"1,499,999TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,100 m²,2+1,4.Kat,Kombi Doğalgaz,110 m²,21 Ve Üzeri,4,Mülk Sahibi Oturuyor
+Ev-328,"3,250,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,145 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),Bilinmiyor,Boş
+Ev-329,"2,900,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,138 m²,3+1,9.Kat,Kombi Doğalgaz,155 m²,0 (Yeni),12,Boş
+Ev-330,"1,895,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü,110 m²,3+1,Yüksek Giriş,Merkezi (Pay Ölçer),120 m²,2,4,Boş
+Ev-331,"2,950,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,7.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),7,Boş
+Ev-332,"5,500,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,230 m²,4+1,Düz Giriş (Zemin),Merkezi Doğalgaz,285 m²,0 (Yeni),12,Boş
+Ev-333,"4,500,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,210 m²,5+1,5.Kat,Kombi Doğalgaz,245 m²,0 (Yeni),Bilinmiyor,Boş
+Ev-334,"2,850,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,160 m²,3+1,6.Kat,Kombi Doğalgaz,180 m²,Bilinmiyor,11,Mülk Sahibi Oturuyor
+Ev-335,"2,200,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,170 m²,5-10,8,Mülk Sahibi Oturuyor
+Ev-336,"2,150,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü (Meryem Mahallesi),110 m²,3+1,2.Kat,Kombi Doğalgaz,120 m²,2,4,Kiracı Oturuyor
+Ev-337,"2,850,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,145 m²,3+1,8.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-338,"3,250,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,180 m²,1,8,Boş
+Ev-339,"3,150,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),8,Boş
+Ev-340,"1,350,000TL",Elazığ - Elazığ Merkez - Sarayatik Mahallesi,145 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-341,"990,000TL",Elazığ - Elazığ Merkez - Nail Bey Mahallesi,120 m²,2+1,4.Kat,Kombi Doğalgaz,135 m²,21 Ve Üzeri,4,Boş
+Ev-342,"2,240,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,100 m²,2+1,2.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),6,Boş
+Ev-343,"1,595,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,100 m²,3+1,5.Kat,Kombi Doğalgaz,117 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-344,"2,250,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,105 m²,2+1,10.Kat,Kombi Doğalgaz,120 m²,2,12,Kiracı Oturuyor
+Ev-345,"3,750,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,168 m²,3+1,12.Kat,Merkezi Doğalgaz,185 m²,3,15,Mülk Sahibi Oturuyor
+Ev-346,"2,670,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,150 m²,3+1,6.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),6,Boş
+Ev-347,"2,100,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,165 m²,3+1,1.Kat,Kombi Doğalgaz,180 m²,16-20,5,Boş
+Ev-348,"6,000,000TLarrow_downward%8",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,135 m²,3+1,Müstakil,Kombi Doğalgaz,245 m²,11-15,2,Boş
+Ev-349,"950,000TLarrow_downward%10",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,145 m²,3+1,7.Kat,Kombi Doğalgaz,155 m²,21 Ve Üzeri,Bilinmiyor,Boş
+Ev-350,"1,720,000TLarrow_downward%7",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,115 m²,2+1,1.Kat,Kombi Doğalgaz,135 m²,4,7,Mülk Sahibi Oturuyor
+Ev-351,"4,650,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,175 m²,4+1,7.Kat,Kombi Doğalgaz,185 m²,0 (Yeni),7,Boş
+Ev-352,"3,100,000TLarrow_downward%6",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,200 m²,4+1,5.Kat,Kombi Doğalgaz,250 m²,5-10,8,Kiracı Oturuyor
+Ev-353,"3,500,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),6,Boş
+Ev-354,"2,350,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,170 m²,3+1,1.Kat,Kombi Doğalgaz,190 m²,11-15,5,Boş
+Ev-355,"1,235,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,115 m²,2+1,5.Kat,Kombi Doğalgaz,130 m²,21 Ve Üzeri,5,Kiracı Oturuyor
+Ev-356,"2,800,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,2.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),8,Boş
+Ev-357,"2,150,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,180 m²,4+1,5.Kat,Kombi Doğalgaz,200 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-358,"2,599,999TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,100 m²,2+1,2.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),7,Boş
+Ev-359,"2,100,000TL",Elazığ - Elazığ Merkez - Karşıyaka Mahallesi,130 m²,3+1,3.Kat,Merkezi (Pay Ölçer),140 m²,3,5,Mülk Sahibi Oturuyor
+Ev-360,"1,250,000TL",Elazığ - Elazığ Merkez - Karşıyaka Mahallesi,75 m²,2+1,4.Kat,Merkezi (Pay Ölçer),85 m²,2,4,Boş
+Ev-361,"2,300,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,165 m²,3+1,3.Kat,Kombi Doğalgaz,180 m²,11-15,5,Kiracı Oturuyor
+Ev-362,"1,525,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,50 m²,2+1,2.Kat,Merkezi (Pay Ölçer),70 m²,3,5,Kiracı Oturuyor
+Ev-363,"3,450,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,240 m²,4+1,1.Kat,Merkezi (Pay Ölçer),260 m²,5-10,7,Kiracı Oturuyor
+Ev-364,"4,965,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,210 m²,4+1,11.Kat,Merkezi Doğalgaz,237 m²,2,13,Mülk Sahibi Oturuyor
+Ev-365,"2,350,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,160 m²,3+1,2.Kat,Kombi Doğalgaz,180 m²,16-20,Bilinmiyor,Kiracı Oturuyor
+Ev-366,"1,800,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,40 m²,1 Oda,4.Kat,Kombi Doğalgaz,55 m²,2,11,Kiracı Oturuyor
+Ev-367,"2,800,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,190 m²,4+1,3.Kat,Merkezi Doğalgaz,217 m²,16-20,8,Kiracı Oturuyor
+Ev-368,"2,925,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,170 m²,3+1,4.Kat,Kombi Doğalgaz,192 m²,4,5,Mülk Sahibi Oturuyor
+Ev-369,"1,350,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,135 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,155 m²,11-15,5,Boş
+Ev-370,"1,250,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,120 m²,3+1,5.Kat,Kombi Doğalgaz,140 m²,21 Ve Üzeri,5,Boş
+Ev-371,"2,950,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,220 m²,4+1,2.Kat,Kombi Doğalgaz,240 m²,5-10,10,Mülk Sahibi Oturuyor
+Ev-372,"3,825,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,190 m²,4+1,8.Kat,Merkezi (Pay Ölçer),210 m²,5-10,9,Boş
+Ev-373,"1,350,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,Bilinmiyor,Boş
+Ev-374,"2,899,999TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,120 m²,3+1,1.Kat,Kombi Doğalgaz,145 m²,0 (Yeni),7,Boş
+Ev-375,"3,500,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,155 m²,3+1,6.Kat,Kombi Doğalgaz,175 m²,0 (Yeni),Bilinmiyor,Boş
+Ev-376,"2,400,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,145 m²,3+1,5.Kat,Kombi Doğalgaz,160 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-377,"1,650,000TL",Elazığ - Elazığ Merkez - Nail Bey Mahallesi,130 m²,2+1,2.Kat,Kombi Doğalgaz,145 m²,21 Ve Üzeri,5,Boş
+Ev-378,"2,550,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,175 m²,3+1,5.Kat,Kombi Doğalgaz,195 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-379,"1,850,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,150 m²,3+1,2.Kat,Doğalgaz Sobalı,165 m²,11-15,3,Mülk Sahibi Oturuyor
+Ev-380,"3,600,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,170 m²,3+1,5.Kat,Kombi Doğalgaz,180 m²,0 (Yeni),7,Boş
+Ev-381,"1,890,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,110 m²,2+1,6.Kat,Kombi Doğalgaz,130 m²,0 (Yeni),9,Boş
+Ev-382,"1,250,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,110 m²,3+1,3.Kat,Kombi Doğalgaz,130 m²,16-20,4,Kiracı Oturuyor
+Ev-383,"3,000,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,200 m²,4+1,5.Kat,Merkezi Doğalgaz,220 m²,16-20,7,Boş
+Ev-384,"1,650,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,65 m²,2+0,Yüksek Giriş,Kombi Doğalgaz,72 m²,4,8,Bilinmiyor
+Ev-385,"1,290,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,130 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-386,"1,100,000TLarrow_downward%9",Elazığ - Elazığ Merkez - Yeni Mahallesi,135 m²,3+1,Düz Giriş (Zemin),Kombi Doğalgaz,150 m²,11-15,5,Boş
+Ev-387,"2,990,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,155 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-388,"2,450,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,105 m²,2+1,Bilinmiyor,Kombi Doğalgaz,120 m²,1,5,Boş
+Ev-389,"2,600,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü (Yadigar Mahallesi),190 m²,4+1,Düz Giriş (Zemin),Kombi Doğalgaz,220 m²,2,6,Boş
+Ev-390,"2,750,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,155 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),6,Boş
+Ev-391,"3,250,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,200 m²,4+1,Yüksek Giriş,Merkezi Doğalgaz,210 m²,5-10,8,Kiracı Oturuyor
+Ev-392,"4,450,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,3.Kat,Merkezi Doğalgaz,220 m²,5-10,10,Boş
+Ev-393,"650,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,130 m²,3+1,1.Kat,Sobalı,140 m²,21 Ve Üzeri,3,Boş
+Ev-394,"680,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,120 m²,3+1,3.Kat,Sobalı,130 m²,21 Ve Üzeri,3,Boş
+Ev-395,"1,900,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,130 m²,3+1,4.Kat,Kombi Doğalgaz,155 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-396,"1,600,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,50 m²,1+1,3.Kat,Kombi Doğalgaz,55 m²,0 (Yeni),8,Boş
+Ev-397,"2,900,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,130 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,0 (Yeni),4,Boş
+Ev-398,"1,500,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,110 m²,3+1,4.Kat,Kombi Doğalgaz,130 m²,11-15,4,Mülk Sahibi Oturuyor
+Ev-399,"980,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,140 m²,3+1,5.Kat,Kombi Doğalgaz,160 m²,21 Ve Üzeri,5,Boş
+Ev-400,"1,350,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,16-20,5,Boş
+Ev-401,"1,000,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,100 m²,2+1,Düz Giriş (Zemin),Kombi Doğalgaz,120 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-402,"995,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,100 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,110 m²,21 Ve Üzeri,4,Boş
+Ev-403,"2,685,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,150 m²,3+1,8.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-404,"2,200,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,155 m²,3+1,3.Kat,Kombi Doğalgaz,170 m²,11-15,4,Kiracı Oturuyor
+Ev-405,"2,595,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,150 m²,3+1,2.Kat,Kombi Doğalgaz,175 m²,4,9,Mülk Sahibi Oturuyor
+Ev-406,"3,990,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,248 m²,4+1,6.Kat,Kombi Doğalgaz,270 m²,5-10,8,Mülk Sahibi Oturuyor
+Ev-407,"2,850,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,145 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,5-10,5,Boş
+Ev-408,"1,795,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,150 m²,3+1,3.Kat,Kombi Doğalgaz,168 m²,16-20,5,Mülk Sahibi Oturuyor
+Ev-409,"2,345,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,125 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,145 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-410,"870,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,5,Boş
+Ev-411,"1,350,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Yeni Mahallesi,135 m²,3+1,2.Kat,Kombi Doğalgaz,150 m²,21 Ve Üzeri,5,Boş
+Ev-412,"3,500,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,155 m²,3+1,4.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),8,Boş
+Ev-413,"2,200,000TLarrow_downward%5",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,138 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,150 m²,4,7,Mülk Sahibi Oturuyor
+Ev-414,"990,000TLarrow_downward%10",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,170 m²,21 Ve Üzeri,5,Boş
+Ev-415,"2,935,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,180 m²,4+1,1.Kat,Kombi Doğalgaz,200 m²,2,12,Boş
+Ev-416,"3,100,000TLarrow_downward%3",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,170 m²,4+1,2.Kat,Kombi Doğalgaz,200 m²,5-10,4,Kiracı Oturuyor
+Ev-417,"1,525,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,135 m²,3+1,4.Kat,Kombi Doğalgaz,150 m²,21 Ve Üzeri,5,Boş
+Ev-418,"1,790,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,50 m²,1+1,2.Kat,Kombi Doğalgaz,60 m²,0 (Yeni),4,Mülk Sahibi Oturuyor
+Ev-419,"1,140,000TL",Elazığ - Elazığ Merkez - Rüstem Paşa Mahallesi,165 m²,3+1,6.Kat,Kombi Doğalgaz,175 m²,21 Ve Üzeri,7,Mülk Sahibi Oturuyor
+Ev-420,"1,175,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,140 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,21 Ve Üzeri,4,Boş
+Ev-421,"2,730,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,135 m²,3+1,5.Kat,Kombi Doğalgaz,150 m²,1,6,Boş
+Ev-422,"1,525,000TL",Elazığ - Elazığ Merkez - İcadiye Mahallesi,140 m²,3+1,1.Kat,Kombi Doğalgaz,155 m²,11-15,5,Boş
+Ev-423,"3,290,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,1.Kat,Merkezi Doğalgaz,220 m²,0 (Yeni),10,Boş
+Ev-424,"3,200,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,225 m²,3+1,4.Kat,Kombi Doğalgaz,245 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-425,"1,400,000TL",Elazığ - Elazığ Merkez - Olgunlar Mahallesi,145 m²,3+1,3.Kat,Bilinmiyor,155 m²,16-20,4,Boş
+Ev-426,"1,850,000TL",Elazığ - Elazığ Merkez - Rüstem Paşa Mahallesi,190 m²,3+1,5.Kat,Kombi Doğalgaz,200 m²,21 Ve Üzeri,6,Kiracı Oturuyor
+Ev-427,"2,700,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,180 m²,3+1,4.Kat,Kombi Doğalgaz,200 m²,11-15,4,Boş
+Ev-428,"2,450,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,170 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-429,"650,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,110 m²,2+1,Bodrum Kat,Sobalı,120 m²,16-20,4,Boş
+Ev-430,"2,375,000TL",Elazığ - Elazığ Merkez - Sarayatik Mahallesi,120 m²,3+1,2.Kat,Kombi Doğalgaz,130 m²,0 (Yeni),8,Boş
+Ev-431,"1,550,000TLarrow_downward%9",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,145 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,165 m²,11-15,Bilinmiyor,Boş
+Ev-432,"2,850,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,125 m²,Bilinmiyor,11.Kat,Kombi Doğalgaz,140 m²,3,12,Mülk Sahibi Oturuyor
+Ev-433,"2,350,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,180 m²,4+1,6.Kat,Merkezi Doğalgaz,210 m²,21 Ve Üzeri,7,Boş
+Ev-434,"1,850,000TL",Elazığ - Elazığ Merkez - Rüstem Paşa Mahallesi,130 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,16-20,4,Kiracı Oturuyor
+Ev-435,"2,800,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,135 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,155 m²,0 (Yeni),3,Boş
+Ev-436,"3,200,000TLarrow_downward%3",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,150 m²,3+1,6.Kat,Kombi Doğalgaz,175 m²,0 (Yeni),7,Boş
+Ev-437,"1,550,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,120 m²,3+1,3.Kat,Kombi Doğalgaz,140 m²,5-10,5,Mülk Sahibi Oturuyor
+Ev-438,"1,995,000TLarrow_downward%3",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,120 m²,3+1,3.Kat,Merkezi (Pay Ölçer),Bilinmiyor,2,6,Kiracı Oturuyor
+Ev-439,"2,500,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,185 m²,3+1,2.Kat,Kombi Doğalgaz,200 m²,11-15,5,Mülk Sahibi Oturuyor
+Ev-440,"3,150,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,180 m²,4+1,4.Kat,Kombi Doğalgaz,200 m²,4,8,Kiracı Oturuyor
+Ev-441,"4,050,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,150 m²,3+1,7.Kat,Kombi Doğalgaz,188 m²,0 (Yeni),7,Boş
+Ev-442,"1,850,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,180 m²,3+1,Bahçe Katı,Kombi Doğalgaz,200 m²,11-15,3,Mülk Sahibi Oturuyor
+Ev-443,"3,300,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,140 m²,3+1,2.Kat,Kombi Doğalgaz,150 m²,0 (Yeni),5,Boş
+Ev-444,"2,325,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,140 m²,3+1,2.Kat,Kombi Doğalgaz,155 m²,0 (Yeni),12,Boş
+Ev-445,"3,000,000TL",Elazığ - Elazığ Merkez - Yurtbaşı Bld. (Cumhuriyet Mahallesi),190 m²,4+1,2.Kat,Merkezi (Pay Ölçer),220 m²,11-15,9,Kiracı Oturuyor
+Ev-446,"2,950,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,2,6,Boş
+Ev-447,"2,775,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Üniversite Mahallesi,135 m²,3+1,4.Kat,Kombi Doğalgaz,155 m²,2,7,Mülk Sahibi Oturuyor
+Ev-448,"1,200,000TL",Elazığ - Elazığ Merkez - Sanayi Mahallesi,160 m²,3+1,2.Kat,Kombi Doğalgaz,180 m²,21 Ve Üzeri,5,Boş
+Ev-449,"990,000TL",Elazığ - Elazığ Merkez - Nail Bey Mahallesi,122 m²,2+1,4.Kat,Kombi Doğalgaz,130 m²,21 Ve Üzeri,4,Mülk Sahibi Oturuyor
+Ev-450,"1,650,000TL",Elazığ - Elazığ Merkez - İzzet Paşa Mahallesi,150 m²,3+1,Çatı Dubleks,Doğalgaz Sobalı,175 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-451,"2,250,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,160 m²,3+1,8.Kat,Kombi Doğalgaz,Bilinmiyor,4,10,Kiracı Oturuyor
+Ev-452,"950,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,180 m²,3+1,3.Kat,Kombi Doğalgaz,210 m²,21 Ve Üzeri,5,Mülk Sahibi Oturuyor
+Ev-453,"700,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,110 m²,3+1,3.Kat,Sobalı,130 m²,21 Ve Üzeri,6,Mülk Sahibi Oturuyor
+Ev-454,"2,850,000TL",Elazığ - Elazığ Merkez - Çarşı Mahallesi,115 m²,3+1,9.Kat,Kombi Doğalgaz,135 m²,0 (Yeni),Bilinmiyor,Boş
+Ev-455,"2,125,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,180 m²,4+1,4.Kat,Kombi Doğalgaz,200 m²,16-20,7,Kiracı Oturuyor
+Ev-456,"3,750,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,180 m²,4+1,8.Kat,Merkezi Doğalgaz,195 m²,5-10,10,Kiracı Oturuyor
+Ev-457,"2,800,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,200 m²,4+1,2.Kat,Merkezi Doğalgaz,220 m²,5-10,4,Mülk Sahibi Oturuyor
+Ev-458,"2,150,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,215 m²,4+1,4.Kat,Kombi Doğalgaz,235 m²,16-20,8,Kiracı Oturuyor
+Ev-459,"2,750,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,170 m²,0 (Yeni),8,Boş
+Ev-460,"2,800,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,140 m²,3+1,4.Kat,Kombi Doğalgaz,160 m²,0 (Yeni),7,Boş
+Ev-461,"2,950,000TLarrow_downward%9",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,360 m²,6+1,5.Kat,Kombi Doğalgaz,375 m²,11-15,5,Boş
+Ev-462,"2,090,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,160 m²,3+1,10.Kat,Kombi Doğalgaz,175 m²,4,10,Mülk Sahibi Oturuyor
+Ev-463,"2,775,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,160 m²,3+1,7.Kat,Kombi Doğalgaz,185 m²,0 (Yeni),7,Boş
+Ev-464,"1,980,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,130 m²,3+1,1.Kat,Kombi Doğalgaz,136 m²,16-20,4,Boş
+Ev-465,"2,150,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,140 m²,3+1,2.Kat,Merkezi Doğalgaz,157 m²,5-10,10,Kiracı Oturuyor
+Ev-466,"2,550,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,200 m²,4+1,3.Kat,Merkezi Doğalgaz,220 m²,16-20,8,Kiracı Oturuyor
+Ev-467,"8,300,000TLarrow_downward%2",Elazığ - Elazığ Merkez - Hankendi Köyü (Yeşilkent Mahallesi),140 m²,3+1,Bahçe Katı,Doğalgaz Sobalı,150 m²,5-10,Bilinmiyor,Mülk Sahibi Oturuyor
+Ev-468,"1,750,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,40 m²,1+1,8.Kat,Kombi Doğalgaz,50 m²,2,9,Bilinmiyor
+Ev-469,"3,250,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,200 m²,4+1,Yüksek Giriş,Merkezi Doğalgaz,220 m²,5-10,8,Mülk Sahibi Oturuyor
+Ev-470,"2,350,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,130 m²,3+1,2.Kat,Kombi Doğalgaz,150 m²,5-10,Bilinmiyor,Boş
+Ev-471,"5,950,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,2.Kat,Merkezi (Pay Ölçer),220 m²,5-10,8,Mülk Sahibi Oturuyor
+Ev-472,"2,350,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,200 m²,4+1,Yüksek Giriş,Kombi Doğalgaz,220 m²,5-10,8,Mülk Sahibi Oturuyor
+Ev-473,"1,650,000TL",Elazığ - Elazığ Merkez - Yemişlik Köyü (Yeniköy Mahallesi),90 m²,2+1,Düz Giriş (Zemin),Merkezi (Pay Ölçer),100 m²,3,4,Kiracı Oturuyor
+Ev-474,"2,550,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,125 m²,2+1,9.Kat,Merkezi Doğalgaz,135 m²,0 (Yeni),12,Boş
+Ev-475,"2,100,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,70 m²,2+1,2.Kat,Merkezi (Pay Ölçer),90 m²,5-10,8,Kiracı Oturuyor
+Ev-476,"4,250,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,190 m²,4+1,5.Kat,Kombi Doğalgaz,220 m²,0 (Yeni),8,Boş
+Ev-477,"3,700,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,1.Kat,Kombi Doğalgaz,230 m²,0 (Yeni),6,Boş
+Ev-478,"2,600,000TL",Elazığ - Elazığ Merkez - Rızaiye Mahallesi,120 m²,3+1,6.Kat,Kombi Doğalgaz,143 m²,2,6,Kiracı Oturuyor
+Ev-479,"2,650,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,160 m²,3+1,5.Kat,Kombi Doğalgaz,175 m²,3,8,Kiracı Oturuyor
+Ev-480,"3,460,000TL",Elazığ - Elazığ Merkez - Cumhuriyet Mahallesi,165 m²,3+1,5.Kat,Kombi Doğalgaz,185 m²,4,5,Boş
+Ev-481,"1,800,000TLarrow_downward%28",Elazığ - Elazığ Merkez - Güneykent Mahallesi,130 m²,2+1,3.Kat,Merkezi Doğalgaz,147 m²,1,5,Boş
+Ev-482,"2,800,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,100 m²,2+1,3.Kat,Kombi Doğalgaz,120 m²,0 (Yeni),4,Boş
+Ev-483,"3,500,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,170 m²,4+1,5.Kat,Kombi Doğalgaz,190 m²,0 (Yeni),8,Boş
+Ev-484,"2,580,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,4.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),5,Boş
+Ev-485,"3,450,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,160 m²,Bilinmiyor,1.Kat,Kombi Doğalgaz,185 m²,0 (Yeni),8,Boş
+Ev-486,"2,250,000TL",Elazığ - Elazığ Merkez - Abdullah Paşa Mahallesi,135 m²,3+1,8.Kat,Merkezi Doğalgaz,165 m²,5-10,11,Mülk Sahibi Oturuyor
+Ev-487,"3,200,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,135 m²,3+1,3.Kat,Kombi Doğalgaz,150 m²,0 (Yeni),5,Boş
+Ev-488,"2,950,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,150 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),6,Boş
+Ev-489,"3,300,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,185 m²,4+1,5.Kat,Kombi Doğalgaz,210 m²,0 (Yeni),8,Boş
+Ev-490,"2,350,000TL",Elazığ - Elazığ Merkez - Yeni Mahallesi,75 m²,2+1,6.Kat,Kombi Doğalgaz,80 m²,0 (Yeni),8,Boş
+Ev-491,"4,250,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,6.Kat,Kombi Doğalgaz,215 m²,0 (Yeni),7,Boş
+Ev-492,"2,660,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,165 m²,3+1,Yüksek Giriş,Kombi Doğalgaz,175 m²,3,8,Boş
+Ev-493,"1,500,000TL",Elazığ - Elazığ Merkez - Kültür Mahallesi,130 m²,3+1,5.Kat,Kombi Doğalgaz,160 m²,21 Ve Üzeri,5,Boş
+Ev-494,"3,850,000TL",Elazığ - Elazığ Merkez - Sürsürü Mahallesi,150 m²,3+1,6.Kat,Merkezi (Pay Ölçer),160 m²,1,8,Mülk Sahibi Oturuyor
+Ev-495,"2,900,000TL",Elazığ - Elazığ Merkez - Doğu Kent Mahallesi,150 m²,3+1,3.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),7,Boş
+Ev-496,"1,200,000TL",Elazığ - Elazığ Merkez - Mustafa Paşa Mahallesi,130 m²,3+1,3.Kat,Kombi Doğalgaz,145 m²,21 Ve Üzeri,4,Kiracı Oturuyor
+Ev-497,"2,950,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,190 m²,4+1,3.Kat,Merkezi Doğalgaz,218 m²,3,7,Boş
+Ev-498,"4,500,000TL",Elazığ - Elazığ Merkez - Çaydaçıra Mahallesi,200 m²,4+1,3.Kat,Kombi Doğalgaz,215 m²,0 (Yeni),8,Boş
+Ev-499,"7,000,000TL",Elazığ - Elazığ Merkez - Akçakiraz Bld. (Kültür Mahallesi),250 m²,6+2,Bahçe Katı,Kat Kaloriferi,270 m²,3,2,Mülk Sahibi Oturuyor
+Ev-500,"3,500,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,200 m²,4+1,7.Kat,Kombi Doğalgaz,215 m²,3,8,Mülk Sahibi Oturuyor
+Ev-501,"2,950,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,155 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),7,Boş
+Ev-502,"1,200,000TLarrow_downward%4",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,50 m²,1+1,Yüksek Giriş,Kombi Doğalgaz,70 m²,5-10,5,Kiracı Oturuyor
+Ev-503,"3,000,000TL",Elazığ - Elazığ Merkez - Ulu Kent Mahallesi,150 m²,3+1,5.Kat,Kombi Doğalgaz,165 m²,0 (Yeni),8,Boş
+Ev-504,"2,500,000TL",Elazığ - Elazığ Merkez - Üniversite Mahallesi,230 m²,5+2,5.Kat,Kombi Doğalgaz,250 m²,11-15,5,Boş
+Ev-505,"2,800,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,190 m²,4+1,5.Kat,Kombi Doğalgaz,205 m²,0 (Yeni),5,Mülk Sahibi Oturuyor
+Ev-506,"2,550,000TL",Elazığ - Elazığ Merkez - Ataşehir Mahallesi,230 m²,4+1,1.Kat,Kombi Doğalgaz,250 m²,5-10,Bilinmiyor,Mülk Sahibi Oturuyor
